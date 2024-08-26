@@ -33,7 +33,7 @@ This project demonstrates a basic implementation of user authentication in a web
 1. **Clone the repository:**
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/swarajpanmand/react-express-auth
    cd backend
    ```
 
@@ -93,6 +93,3 @@ This project demonstrates a basic implementation of user authentication in a web
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
