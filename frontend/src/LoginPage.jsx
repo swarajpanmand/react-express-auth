@@ -39,6 +39,7 @@ const LoginPage = () => {
         username: '',
         password: ''
       })
+      alert('Login successful');
     }
 
   return (
